@@ -5,8 +5,8 @@ description = "I/O access to virtual memory contents of processes"
 authors = [
     "Koutheir Attouchi <koutheir.attouchi@microdoc.com>"
 ]
-homepage = "https://github.com/mdcssw/process_vm_io"
-repository = "https://github.com/mdcssw/process_vm_io"
+homepage = "https://github.com/microdoc/process_vm_io"
+repository = "https://github.com/microdoc/process_vm_io"
 documentation = "https://docs.rs/process_vm_io"
 readme = "README.md"
 license = "MIT"
